@@ -1,0 +1,13 @@
+input[type="email"],
+[type="password"],
+[type="text"] {
+  /* border: 0px 0px 1px 0px solid blue; */
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid blue;
+}
+.brand:hover {
+  background-color: black;
+  color: white;
+}
